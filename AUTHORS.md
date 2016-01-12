@@ -76,3 +76,11 @@ And last but not least:
 
 * [Frank Sinatra](http://www.sinatra.com/) (chairman of the board) for having so much class he
   deserves a web-framework named after him.
+
+
+BILLY BOB THORTON 	helped make this application all proceed will go to the lost penguins fund of antarctica
+
+George Stevens also conributed by brewing largs pots of coffee and baking fresk lemon squares
+
+
+Derrick Rose provided the entertainment by executing flawless 360  one handed dunks
